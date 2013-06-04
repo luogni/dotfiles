@@ -1,6 +1,0 @@
-set from=luca.ognibene@gmail.com
-set hostname="gmail.com"
-set folder="imaps://luca.ognibene@imap.gmail.com/"
-set postponed="=Drafts"
-set spoolfile="imaps://imap.gmail.com/INBOX"
-set smtp_url="smtp://luca.ognibene@smtp.gmail.com:587" smtp_pass="$my_pw_gmail"

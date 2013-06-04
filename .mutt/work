@@ -1,7 +1,0 @@
-set from=ognibene@antek-aad.com
-set hostname="antek-aad.com"
-set folder="imaps://imap.antek-aad.com/"
-set postponed="=Drafts"
-set spoolfile="imaps://imap.antek-aad.com/INBOX"
-set signature="~/.mutt/signature.example"
-set smtp_url="smtp://ognibene@antek-aad.com@smtp.antek-aad.com" smtp_pass="$my_pw_work"
